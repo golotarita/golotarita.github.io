@@ -12,4 +12,4 @@
 
 [Лабораторная работа №3](https://repl.it/@manikothecat/20-09-18)
 
-
+[Конспект 22-11-18](https://repl.it/@manikothecat/kospekt-22-11-18)
