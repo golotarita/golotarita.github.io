@@ -1,0 +1,12 @@
+1. Дана функция, у которой объявлен один аргумент args. Напишите её тело, так чтобы она использовала только его (args) и вычисляла сумму всех чисел, переданных ей.
+function sum (...args) {
+
+return args.reduce((ac, cur) => ac + cur); 
+
+             }
+
+Out.log(sum(-1, 0, 1, 2, 3, 4, 5));
+
+3. Отправьте на адрес 3336.kodaktor.ru/ivanov?result результат сериализации
+объекта       { status: 'student', year: 2018 }
+https://3336.kodaktor.ru/golota?{%22status%22:%22student%22,%22year%22:2018}
