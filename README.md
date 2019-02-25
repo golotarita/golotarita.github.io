@@ -28,3 +28,9 @@
 
 [25-10-2018](/JS/25-10-2018)
 
+[30.10.2018 - 03.11.2018 – неделя 9](https://kodaktor.ru/fe5409e)
+
+[async/await](/JS/async-await)
+
+[17.11.18](https://codepen.io/anon/pen/KrRyby)
+
