@@ -24,6 +24,6 @@
 
 [22.09.2018 Задание 1 по введению в JS](https://kodaktor.ru/g/task_66e67)
 
-[16.10.2018 – 20.10.2018 – неделя 7](/https://github.com/golotarita/golotarita.github.io/blob/master/JS/16.10.2018%20%E2%80%93%2020.10.2018%20%E2%80%93%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%207)
+[16.10.2018 – 20.10.2018 – неделя 7](golotarita.github.io/JS/16.10.2018 – 20.10.2018 – неделя 7)
 
 
