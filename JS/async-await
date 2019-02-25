@@ -1,0 +1,7 @@
+
+(async () => { 
+const res1 = await fetch('https://3336.kodaktor.ru/jsonpost', {method: 'POST'}); 
+const res2 = await res1.json(); 
+const {obj1: { rs:{ 2 : { x: { 6 : fc }}}}} = res2; 
+Out.log('Задание 2 ' + fc); 
+})()
