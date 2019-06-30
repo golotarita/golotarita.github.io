@@ -40,7 +40,7 @@
 
 [FUNC-002](https://kodaktor.ru/func_329bc)
 
-[FUNC-003]
+[FUNC-003](https://kodaktor.ru/func_3407d)
 
 [FUNC-004]
 
