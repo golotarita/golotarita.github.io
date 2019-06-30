@@ -70,11 +70,11 @@
 
 [BNDL_001]
 
-[CART]
+[CART](https://kodaktor.ru/custom_25c0d)
 
 [frmw_001]
 
-[frmw_002]
+[frmw_002](https://kodaktor.ru/frmw_89010)
 
 [frmw_003]
 
@@ -84,7 +84,7 @@
 
 [YOU]
 
-[CANV_001]
+[CANV_001](https://kodaktor.ru/canvas_4321f)
 
 ## --- серверные  --- 
 
@@ -94,4 +94,4 @@
 
 [Добавление и чтение записей файла в PHP] 
 
-[Mailer] github.com/GossJS/mailer
+[Mailer] 
