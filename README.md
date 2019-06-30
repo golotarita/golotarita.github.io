@@ -36,7 +36,7 @@
 
 
 ### Для экзамена.
-[FUNC-001] (https://kodaktor.ru/task_func_e2fba)
+[Func_001] (https://kodaktor.ru/task_func_e2fba)
 
 [FUNC-002] (https://kodaktor.ru/func_329bc)
 
