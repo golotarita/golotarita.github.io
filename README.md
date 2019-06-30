@@ -36,6 +36,10 @@
 
 
 ### Для экзамена.
+
+## --- клиентские ---
+[JSON_INTRO]
+
 [FUNC-001](https://kodaktor.ru/task_func_e2fba)
 
 [FUNC-002](https://kodaktor.ru/func_329bc)
@@ -50,16 +54,44 @@
 
 [FUNC-007](https://kodaktor.ru/func_e0233)
 
-[FUNC-008]()
+[FUNC-008]
 
 [FUNC-009](https://kodaktor.ru/func_af0c3)
 
-[FUNC-010]()
+[FUNC-010]
 
-[IPS_TASK]()
+[IPS_TASK]
 
 [EVNT_002](https://kodaktor.ru/evnt_5d6d9)
 
 [EVNT_003]()
 
 [BABL_002]
+
+[BNDL_001]
+
+[CART]
+
+[frmw_001]
+
+[frmw_002]
+
+[frmw_003]
+
+[frmw_004]
+
+[frmw_005]
+
+[YOU]
+
+[CANV_001]
+
+## --- серверные  --- 
+
+[Сессии (Node.js)]
+
+[PHP – файлы и изображения]
+
+[Добавление и чтение записей файла в PHP] 
+
+[Mailer] github.com/GossJS/mailer
