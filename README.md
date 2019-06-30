@@ -67,7 +67,7 @@
 
 [BABL_002]()
 
-[BNDL_001]
+[BNDL_001]()
 
 [CART](https://kodaktor.ru/custom_25c0d)
 
