@@ -42,17 +42,17 @@
 
 [FUNC-003](https://kodaktor.ru/func_3407d)
 
-[FUNC-004]
+[FUNC-004](https://kodaktor.ru/func_30344)
 
-[FUNC-005]
+[FUNC-005](https://kodaktor.ru/func_9fa3f)
 
-[FUNC-006]
+[FUNC-006](https://kodaktor.ru/func_5d35c)
 
-[FUNC-007]
+[FUNC-007](https://kodaktor.ru/func_e0233)
 
 [FUNC-008]
 
-[FUNC-009]
+[FUNC-009](https://kodaktor.ru/func_af0c3)
 
 [FUNC-010]
 
