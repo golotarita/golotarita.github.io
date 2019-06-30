@@ -34,3 +34,28 @@
 
 [17.11.18](https://codepen.io/anon/pen/KrRyby)
 
+
+### Для экзамена.
+[FUNC-001] (https://kodaktor.ru/task_func_e2fba)
+
+[FUNC-002]
+
+[FUNC-003]
+
+[FUNC-004]
+
+[FUNC-005]
+
+[FUNC-006]
+
+[FUNC-007]
+
+[FUNC-008]
+
+[FUNC-009]
+
+[FUNC-010]
+
+[IPS_TASK]
+
+[EVNT_002]
