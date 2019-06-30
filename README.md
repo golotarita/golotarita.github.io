@@ -54,7 +54,7 @@
 
 [FUNC-007](https://kodaktor.ru/func_e0233)
 
-[FUNC-008]
+[FUNC-008](https://kodaktor.ru/func_af4dd)
 
 [FUNC-009](https://kodaktor.ru/func_af0c3)
 
@@ -72,7 +72,7 @@
 
 [CART](https://kodaktor.ru/custom_25c0d)
 
-[frmw_001]
+[frmw_001](https://kodaktor.ru/frmw_89010)
 
 [frmw_002](https://kodaktor.ru/frmw_89010)
 
