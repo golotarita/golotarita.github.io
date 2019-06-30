@@ -50,12 +50,16 @@
 
 [FUNC-007](https://kodaktor.ru/func_e0233)
 
-[FUNC-008]
+[FUNC-008]()
 
 [FUNC-009](https://kodaktor.ru/func_af0c3)
 
-[FUNC-010]
+[FUNC-010]()
 
-[IPS_TASK]
+[IPS_TASK]()
 
-[EVNT_002]
+[EVNT_002](https://kodaktor.ru/evnt_5d6d9)
+
+[EVNT_003]()
+
+[BABL_002]
