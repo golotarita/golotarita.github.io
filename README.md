@@ -86,12 +86,4 @@
 [CANV_001](https://kodaktor.ru/canvas_4321f)
 [CANV](https://kodaktor.ru/30)
 
-## --- серверные  --- 
 
-[Сессии (Node.js)]()
-
-[PHP – файлы и изображения]()
-
-[Добавление и чтение записей файла в PHP]() 
-
-[Mailer]() 
