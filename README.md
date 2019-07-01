@@ -57,15 +57,15 @@
 
 [FUNC-009](https://kodaktor.ru/func_af0c3)
 
-[FUNC-010]()
+[FUNC-010](https://kodaktor.ru/func_9c656)
 
 [IPS_TASK]()
 
 [EVNT_002](https://kodaktor.ru/evnt_5d6d9)
 
-[EVNT_003]()
+[EVNT_003](https://kodaktor.ru/evnt_5a29b)
 
-[BABL_002]()
+[BABL_002](https://kodaktor.ru/bind02032018_0d12b)
 
 [BNDL_001]()
 
