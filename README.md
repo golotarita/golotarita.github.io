@@ -1,7 +1,11 @@
 ## Портфолио
 
-Выполнила Голота М.А. 2 курс ИВТ2(1).
- 
+Выполнила Голота М.А. 3 курс ИВТ2(1).
+### ИТИнЯзМ2019
+[Задание 1](https://github.com/golotarita/inyaz/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+[Задание 2](https://github.com/golotarita/inyaz/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+[Задание 3](https://github.com/golotarita/inyaz/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+[Задание 4](https://github.com/golotarita/inyaz/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 ### Программирование.
 [Самостоятельная работа 1 (GitHub, разметка)](https://github.com/golotarita/labs/blob/master/Markdown.md)
