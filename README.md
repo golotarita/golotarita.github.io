@@ -4,16 +4,16 @@
 # УПП
 
 ### Тема 1
-[Тема 1 ИСР1](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
+[ИСР](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
 
-[Тема 1 ВСР1](https://github.com/ctel-prj-mng/3-ivt-17-t1-golotarita/blob/master/vsr.md)
+[ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t1-golotarita/blob/master/vsr.md)
 
 [Лабораторная работа 1, 2, 3. Диаграмма Ганта](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
 
 ### Тема 2
 [ИСР и ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t2-golotarita)
 
-[Лабораторная работа 4, 5, 6. Макет]()
+[Лабораторная работа 4, 5, 6. Макет](https://github.com/ctel-prj-mng/2-wireframe-130218-golotarita)
 
 [Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-golotarita/tree/master)
 
