@@ -3,23 +3,27 @@
 Выполнила Голота М.А. 3 курс ИВТ2(1).
 # УПП
 
+### Тема 1
+[Тема 1 ИСР1](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
 
-### [Тема 1 ИСР1](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
+[Тема 1 ВСР1](https://github.com/ctel-prj-mng/3-ivt-17-t1-golotarita/blob/master/vsr.md)
 
-### [Тема 1 ВСР1](https://github.com/ctel-prj-mng/3-ivt-17-t1-golotarita/blob/master/vsr.md)
+[Лабораторная работа 1, 2, 3. Диаграмма Ганта](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
 
-### [Лабораторная работа 1, 2, 3. Диаграмма Ганта](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
+### Тема 2
+[ИСР и ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t2-golotarita)
+[Лабораторная работа 4, 5, 6. Макет]()
+[Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-golotarita/tree/master)
 
-### [Тема 2. Организация процесса разработки](https://github.com/ctel-prj-mng/3-ivt-17-t2-golotarita)
+[](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita)
 
 
-
-### ИТИнЯзМ2019
+# ИТИнЯзМ2019
 [Задания 1 - 4](https://github.com/golotarita/inyaz/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 
 
-### Программирование.
+# Программирование.
 [Самостоятельная работа 1 (GitHub, разметка)](https://github.com/golotarita/labs/blob/master/Markdown.md)
 
 [Лабораторная работа №2](https://repl.it/@manikothecat/lr2)
@@ -32,7 +36,7 @@
 
 [Конспект 22-11-18](https://repl.it/@manikothecat/kospekt-22-11-18)
 
-### Веб-проектирование.
+# Веб-проектирование.
 
 [Лабораторное занятие 06.09.2018 и 08.09.2018](https://kodaktor.ru/unsafe_c58e3)
 
