@@ -19,11 +19,13 @@
 
 ### Тема 3
 
-[ИСР и ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita)
+[ИСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita/blob/master/isr.md)
+
+[ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita/blob/master/vsr.md)
 
 [Лабораторная работа 10, 11]()
 
-[Лабораторная работа 12, 13]()
+[Лабораторная работа 12, 13](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita/blob/master/1213.md)
 
 ### Тема 4
 
