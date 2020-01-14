@@ -17,8 +17,16 @@
 
 [Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-golotarita/tree/master)
 
-[Тема 3. Планирование программного проекта](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita)
+### Тема 3
 
+[ИСР и ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita)
+[Лабораторная работа 10, 11]()
+[Лабораторная работа 12, 13]()
+
+### Тема 4
+
+[ИСР и ВСР]()
+[Лабораторная работа 14]()
 
 # ИТИнЯзМ2019
 [Задания 1 - 4](https://github.com/golotarita/inyaz/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
