@@ -1,16 +1,16 @@
-## Портфолио
+# Портфолио
 
 Выполнила Голота М.А. 3 курс ИВТ2(1).
-### УПП
+# УПП
 
 
-#### [Тема 1 ИСР1](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
+## [Тема 1 ИСР1](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
 
-#### [Тема 1 ВСР1](https://github.com/ctel-prj-mng/3-ivt-17-t1-golotarita/blob/master/vsr.md)
+## [Тема 1 ВСР1](https://github.com/ctel-prj-mng/3-ivt-17-t1-golotarita/blob/master/vsr.md)
 
-#### [Лабораторная работа 1, 2, 3. Диаграмма Ганта](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
+## [Лабораторная работа 1, 2, 3. Диаграмма Ганта](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
 
-#### [Тема 2. Организация процесса разработки](https://github.com/ctel-prj-mng/3-ivt-17-t2-golotarita)
+## [Тема 2. Организация процесса разработки](https://github.com/ctel-prj-mng/3-ivt-17-t2-golotarita)
 
 
 
