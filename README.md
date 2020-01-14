@@ -12,10 +12,12 @@
 
 ### Тема 2
 [ИСР и ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t2-golotarita)
+
 [Лабораторная работа 4, 5, 6. Макет]()
+
 [Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-golotarita/tree/master)
 
-[](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita)
+[Тема 3. Планирование программного проекта](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita)
 
 
 # ИТИнЯзМ2019
