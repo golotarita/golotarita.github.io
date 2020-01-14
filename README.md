@@ -2,13 +2,16 @@
 
 Выполнила Голота М.А. 3 курс ИВТ2(1).
 ### УПП
-# Тема 1
+#### Тема 1
 
 [ИСР1](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
 
 [ВСР1](https://github.com/ctel-prj-mng/3-ivt-17-t1-golotarita/blob/master/vsr.md)
 
 [Лабораторная работа 1, 2, 3. Диаграмма Ганта](https://github.com/ctel-prj-mng/1-gantt-60218-golotarita)
+
+#### [Тема 2. Организация процесса разработки](https://github.com/ctel-prj-mng/3-ivt-17-t2-golotarita)
+
 
 
 ### ИТИнЯзМ2019
