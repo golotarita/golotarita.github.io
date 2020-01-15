@@ -29,7 +29,8 @@
 
 ### Тема 4
 
-[ИСР и ВСР]()
+[ИСР](https://github.com/ctel-prj-mng/3-ivt-17-t4-golotarita/blob/master/isr.md)
+[ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t4-golotarita/blob/master/vsr.md)
 
 [Лабораторная работа 14]()
 
