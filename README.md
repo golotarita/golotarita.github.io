@@ -23,7 +23,7 @@
 
 [ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita/blob/master/vsr.md)
 
-[Лабораторная работа 10, 11]()
+[Лабораторная работа 10, 11](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita/blob/master/1011.md)
 
 [Лабораторная работа 12, 13](https://github.com/ctel-prj-mng/3-ivt-17-t3-golotarita/blob/master/1213.md)
 
