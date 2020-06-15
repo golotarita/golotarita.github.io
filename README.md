@@ -41,7 +41,14 @@
 
 
 # Программирование.
-[Самостоятельная работа 1 (GitHub, разметка)](https://github.com/golotarita/labs/blob/master/Markdown.md)
+## 3 семестр 
+[ИСР №1.2](https://repl.it/@manikothecat/ISR12) 
+
+[ИСР №1.3](https://repl.it/@manikothecat/ISR13) 
+
+[ИСР №1.4](https://repl.it/@manikothecat/ISR14) 
+
+[GitHub, разметка](https://github.com/golotarita/labs/blob/master/Markdown.md)
 
 [Лабораторная работа №2](https://repl.it/@manikothecat/lr2)
 
