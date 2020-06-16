@@ -74,6 +74,10 @@
 
 [Лабораторная работа №3](https://repl.it/@manikothecat/20-09-18)
 
+[Лабораторная работа 3-3-10](https://repl.it/@manikothecat/LR-3-3-10)
+
+[Лабораторная работа 3-3-11](https://repl.it/@manikothecat/LR-3-3-11)
+
 [1-11-18](https://repl.it/@manikothecat/1-11-18)
 
 [Конспект 22-11-18](https://repl.it/@manikothecat/kospekt-22-11-18)
