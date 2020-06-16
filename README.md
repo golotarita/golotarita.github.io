@@ -66,6 +66,12 @@
 
 [ИСР №3.2](https://repl.it/@manikothecat/ISR32)
 
+[ИСР №3.3](https://repl.it/@manikothecat/ISR33)
+
+[ИСР №3.4](https://repl.it/@manikothecat/ISR34)
+
+[ВСР №3](https://repl.it/@manikothecat/VSR3)
+
 [Лабораторная работа №3](https://repl.it/@manikothecat/20-09-18)
 
 [1-11-18](https://repl.it/@manikothecat/1-11-18)
