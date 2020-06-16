@@ -54,6 +54,18 @@
 
 [Самостоятельная работа №2](https://repl.it/@manikothecat/SR2)
 
+[ИСР №2.1](https://repl.it/@manikothecat/lr2)
+
+[ИСР №2.2](https://repl.it/@manikothecat/ISR22)
+
+[ИСР №2.3](https://repl.it/@manikothecat/ISR23)
+
+[ИСР №2.4](https://repl.it/@manikothecat/ISR24)
+
+[ВСР №2](https://repl.it/@manikothecat/VSR2)
+
+[ИСР №3.2](https://repl.it/@manikothecat/ISR32)
+
 [Лабораторная работа №3](https://repl.it/@manikothecat/20-09-18)
 
 [1-11-18](https://repl.it/@manikothecat/1-11-18)
