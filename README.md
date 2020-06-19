@@ -84,7 +84,7 @@
 
 [Лабораторная работа 12](https://repl.it/@manikothecat/LR12)
 
-[ИСР №4]()
+[ИСР №4](https://repl.it/@manikothecat/json)
 
 [ВСР №4]()
 
