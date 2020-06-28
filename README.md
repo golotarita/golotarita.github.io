@@ -90,10 +90,32 @@
 
 ## 4 семестр 
 [ИСР №1](https://repl.it/@manikothecat/json)
-[ИСР №1](https://repl.it/@manikothecat/4-VSR1)
 
+[ВСР №1](https://repl.it/@manikothecat/4-VSR1)
+
+[ИСР №2](https://repl.it/@manikothecat/4-ISR2)
+
+[ВСР №2](https://repl.it/@manikothecat/44-VSR2)
+
+[ИСР №3](https://repl.it/@manikothecat/4-ISR3)
+
+[ВСР №3](https://repl.it/@manikothecat/4-VSR3)
+
+[ИСР №4](https://repl.it/@manikothecat/4-ISR4)
+
+[ВСР №4](https://repl.it/@manikothecat/4-VSR4)
 
 ## 5 семестр 
+[ИСР№1.1](https://github.com/golotarita/dz/blob/master/READ)
+
+[ИСР№1.2](https://repl.it/@manikothecat/5-ISR12)
+
+[ВСР№1](????)
+
+[ИСР№2](https://repl.it/@manikothecat/5-ISR2)
+
+[ВСР№2](https://repl.it/@manikothecat/5-ISR2)
+
 
 
 ## 6 семестр 
@@ -102,9 +124,8 @@
 
 [ВСР№1](https://repl.it/@manikothecat/6-VSR1)
 
-[ИСР№2](https://repl.it/@manikothecat/4-ISR2)
 
-[ВСР№2](https://repl.it/@manikothecat/44-VSR2)
+
 
 
 
