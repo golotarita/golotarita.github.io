@@ -110,11 +110,14 @@
 
 [ИСР№1.2](https://repl.it/@manikothecat/5-ISR12)
 
-[ВСР№1](????)
+[ВСР№1](https://repl.it/@manikothecat/5-VSR1)
 
 [ИСР№2](https://repl.it/@manikothecat/5-ISR2)
 
 [ВСР№2](https://repl.it/@manikothecat/5-ISR2)
+
+[ИСР№3](https://repl.it/@manikothecat/5-ISR3)
+
 
 
 
