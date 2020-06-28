@@ -89,7 +89,12 @@
 [ВСР №4](https://repl.it/@manikothecat/json)
 
 ## 4 семестр 
+## 5 семестр 
+## 6 семестр 
 
+[ИСР№1](https://repl.it/@manikothecat/6-ISR1)
+
+[ВСР№1](https://repl.it/@manikothecat/6-VSR1)
 
 
 # Веб-проектирование.
