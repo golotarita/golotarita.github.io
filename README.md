@@ -120,6 +120,11 @@
 
 [ВСР№3](https://docs.google.com/document/d/1vZU56-o2k3K2115egsQ-10kgz-blHmRMvi4_tEYoe5g/edit?usp=sharing)
 
+[ИСР№4.1](https://repl.it/@manikothecat/5-ISR41)
+
+[ИСР№4.2](https://repl.it/@manikothecat/5-ISR42)
+
+
 
 
 
