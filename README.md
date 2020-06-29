@@ -142,7 +142,7 @@
 
 [ВСР№3](https://drive.google.com/drive/folders/1f5KoPEAffx9ed7NJNNgvPAJL25xG1hCb?usp=sharing)
 
-[ИСР№4]()
+[ИСР№4](https://github.com/golotarita/golotarita.github.io/blob/master/6%20%D0%B8%D1%81%D1%804)
 
 [ВСР№4](https://repl.it/@manikothecat/6-VSR4)
 
