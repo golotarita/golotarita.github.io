@@ -134,6 +134,13 @@
 
 [ВСР№1](https://repl.it/@manikothecat/6-VSR1)
 
+[ИСР№2](https://repl.it/@manikothecat/6-ISR-2)
+
+[ВСР№2](https://repl.it/@manikothecat/6-VSR-2)
+
+
+
+
 
 
 
