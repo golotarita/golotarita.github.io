@@ -126,8 +126,6 @@
 
 
 
-
-
 ## 6 семестр 
 
 [ИСР№1](https://repl.it/@manikothecat/6-ISR1)
@@ -138,7 +136,7 @@
 
 [ВСР№2](https://repl.it/@manikothecat/6-VSR-2)
 
-[ИСР№3]()
+[ИСР№3](https://repl.it/@manikothecat/6-siem-ISR3)
 
 [ВСР№3](https://drive.google.com/drive/folders/1f5KoPEAffx9ed7NJNNgvPAJL25xG1hCb?usp=sharing)
 
