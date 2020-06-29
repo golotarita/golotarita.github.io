@@ -118,6 +118,8 @@
 
 [ИСР№3](https://repl.it/@manikothecat/5-ISR3)
 
+[ВСР№3](https://docs.google.com/document/d/1vZU56-o2k3K2115egsQ-10kgz-blHmRMvi4_tEYoe5g/edit?usp=sharing)
+
 
 
 
