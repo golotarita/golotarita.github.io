@@ -138,11 +138,13 @@
 
 [ВСР№2](https://repl.it/@manikothecat/6-VSR-2)
 
+[ИСР№3]()
 
 [ВСР№3](https://drive.google.com/drive/folders/1f5KoPEAffx9ed7NJNNgvPAJL25xG1hCb?usp=sharing)
 
+[ИСР№4]()
 
-
+[ВСР№4](https://repl.it/@manikothecat/6-VSR4)
 
 
 
