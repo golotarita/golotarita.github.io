@@ -139,7 +139,7 @@
 [ВСР№2](https://repl.it/@manikothecat/6-VSR-2)
 
 
-
+[ВСР№3](https://drive.google.com/drive/folders/1f5KoPEAffx9ed7NJNNgvPAJL25xG1hCb?usp=sharing)
 
 
 
