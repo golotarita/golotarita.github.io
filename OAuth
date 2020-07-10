@@ -1,0 +1,21 @@
+* GitHub 2.0 
+https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/
+
+* Google 2.0
+  * https://developers.google.com/identity/protocols/oauth2
+  * https://github.com/google/oauth2l
+
+* Facebook 2.0
+https://developers.facebook.com/docs/instagram-basic-display-api/reference/oauth-authorize/
+
+* Twitter 2.0
+  * https://developer.twitter.com/en/docs/basics/authentication/api-reference/authenticate
+  * https://github.com/abraham/twitteroauth
+
+* VK 
+https://vk.com/dev/authentication
+
+* Tumblr 
+https://www.tumblr.com/docs/en/api/v2
+
+
