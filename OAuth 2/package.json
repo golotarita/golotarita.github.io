@@ -9,7 +9,7 @@
   "author": "natriy1",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "passport": "^0.4.0",
     "passport-google-oauth": "^2.0.0",
